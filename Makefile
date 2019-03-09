@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -o simulation
+	g++ main.cpp -o simulator
